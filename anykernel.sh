@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=ShagKernel
+kernel.string=Shag Kernel for Bonito/Sargo
 do.devicecheck=1
 do.modules=0
 do.cleanup=1
